@@ -3,21 +3,22 @@
   授業で扱う練習用のリポジトリ
 
 
-##準備
+## 準備
 git clone https://github.com/koteitan00/robosys202x.git
 cd robosys2022
 
 # plusコマンドの説明
 
-##使用方法
+## 使用方法
 $ seq x | ./plus
 xまでの整数を合計して出力
-##使用例
+
+## 使用例
 $ seq 1 | ./plus
 1
 $ seq 4 | ./plus
 10
-##必要なソフトウェア
+## 必要なソフトウェア
 * Python
   * テスト済み: 3.7~3.10
 
