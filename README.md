@@ -5,9 +5,9 @@
 
 
 ## 準備
-'git clone https://github.com/koteitan00/robosys202x.git
+'git clone https://github.com/koteitan00/robosys2022.git'
 
-cd robosys2022'
+'cd robosys2022'
 
 # plusコマンドの説明
 
