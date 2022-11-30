@@ -5,22 +5,27 @@
 
 
 ## 準備
+```
+git clone https://github.com/koteitan00/robosys2022.git
 
-`git clone https://github.com/koteitan00/robosys2022.git`
-
-`cd robosys2022`
-
+cd robosys2022
+```
 # plusコマンドの説明
 
 ## 使用方法
+```
 * $ seq x | ./plus        
-                         
+```                         
 xまでの整数を合計して出力
 
 ## 使用例
+```
 * $ seq 4 | ./plus
 
 * 10
+```
+# 環境
+
 ## 必要なソフトウェア
 * Python
   * テスト済み: 3.7~3.10
