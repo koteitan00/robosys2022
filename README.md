@@ -1,12 +1,13 @@
 # robosys2022
 ![test](https://github.com/koteitan00/robosys202x/actions/workflows/test.yml/badge.svg)
-  授業で扱う練習用のリポジトリ
+
+授業で扱う練習用のリポジトリ
 
 
 ## 準備
-git clone https://github.com/koteitan00/robosys202x.git
+'git clone https://github.com/koteitan00/robosys202x.git
 
-cd robosys2022
+cd robosys2022'
 
 # plusコマンドの説明
 
