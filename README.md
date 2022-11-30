@@ -6,16 +6,16 @@
 
 ## 準備
 
-'git clone https://github.com/koteitan00/robosys2022.git'
+`git clone https://github.com/koteitan00/robosys2022.git`
 
-'cd robosys2022'
+`cd robosys2022`
 
 # plusコマンドの説明
 
 ## 使用方法
-*$ seq x | ./plus
+`*$ seq x | ./plus
 
-xまでの整数を合計して出力
+xまでの整数を合計して出力`
 
 ## 使用例
 *$ seq 4 | ./plus
