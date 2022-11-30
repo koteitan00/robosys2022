@@ -14,15 +14,15 @@ cd robosys2022
 
 ## 使用方法
 ```
-* $ seq x | ./plus        
+$ seq x | ./plus        
 ```                         
 xまでの整数を合計して出力
 
 ## 使用例
 ```
-* $ seq 4 | ./plus
+$ seq 4 | ./plus
 
-* 10
+10
 ```
 # 環境
 
